@@ -30,7 +30,7 @@
 ---
 
 ## 🚀 Notable Projects
-- 🌊 [**Mod Din** - Automatic Water Dispenser Simulation](https://github.com/LuckyThanet/CPE112-DATA-STRUCTURE)
+- 🕹️ [**Mod Din** - Automatic Water Dispenser Simulation](https://github.com/LuckyThanet/CPE112-DATA-STRUCTURE)
 - 🏫 Classroom booking system using **Power Apps** and **Excel** as the database
 
 ---
