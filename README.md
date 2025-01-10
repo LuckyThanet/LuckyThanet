@@ -13,7 +13,7 @@
 
 </div>
 
-### <div align="center">🎓 Computer Engineering Student @ KMUTT  &nbsp;|&nbsp; Aspiring Web Developer </div>
+### <div align="center">🎓 Computer Engineering Student @KMUTT  &nbsp;|&nbsp; Aspiring Web Developer </div>
 <div align= "center">  
   
 ### 🎯 Objective
