@@ -26,7 +26,7 @@ As a passionate web developer, I aim to apply my skills in front-end and back-en
 ![Frameworks and Libraries](https://skillicons.dev/icons?i=nodejs,react,expressjs,tailwind,nextjs)
 
 ### 🔨 Other Tools
-![Other Tools](https://skillicons.dev/icons?i=git,vscode,linux,vim,figma,mongodb)
+![Other Tools](https://skillicons.dev/icons?i=git,vscode,linux,vim,figma,mongodb,docker)
 
 ### 📬 Get in Touch
   <a href="mailto:thanet.jomp@gmail.com">
