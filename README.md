@@ -20,7 +20,7 @@
 As a passionate web developer, I aim to apply my skills in front-end and back-end development to create innovative and user-friendly websites that deliver value to both users and businesses, while continuously improving my technical knowledge and growing in my career.
 
 ### 👨‍💻 Programming Languages
-![Programming Languages](https://skillicons.dev/icons?i=js,ts,c)
+![Programming Languages](https://skillicons.dev/icons?i=js,ts,c,go)
 
 ### 🛠️ Frameworks and Libraries
 ![Frameworks and Libraries](https://skillicons.dev/icons?i=nodejs,react,expressjs,tailwind,nextjs)
