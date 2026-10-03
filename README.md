@@ -1,4 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=LuckyThanet&style=flat-square&color=brightgreen)
 <div>
   <h1 align="center">🙈 Hello, I'm Nat</h1>
 </div>
